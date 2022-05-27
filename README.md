@@ -44,7 +44,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Lakshikz/github-readme-stats"><img alt="Lakshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lakshikz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Lakshikz/IT2080-ITP-2022-Feb/itp_project_group_b2-wd_b02_itp_g11"><img alt="Lakshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lakshikz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Lakshikz/github-readme-stats"><img alt="Lakshika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshikz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
