@@ -42,21 +42,21 @@
 </p>
 
 ## 📊 My Github Stats
-  <br/>
+<!--   <br/>
 
  [![](https://raw.githubusercontent.com/vn7n24fzkq/github-Lakshikz-summary-cards-example/master/Lakshikz-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-Lakshikz-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-Lakshikz-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-Lakshikz-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-Lakshikz-summary-cards-example/master/Lakshikz-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-Lakshikz-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-Lakshikz-summary-cards-example/master/Lakshikz-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-Lakshikz-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-Lakshikz-summary-cards-example/master/Lakshikz-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-Lakshikz-summary-cards) 
 
-<br/> 
-
-<!--   <br/>
-    <a href="https://github.com/Lakshikz/github-IT2080-ITP-2022-Feb/itp_project_group_b2-wd_b02_itp_g11-stats"><img alt="Lakshika's Github Stats" src="https://github-IT2080-ITP-2022-Feb/itp_project_group_b2-wd_b02_itp_g11-stats.vercel.app/api?username=Lakshikz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Lakshikz/github-IT2080-ITP-2022-Feb/itp_project_group_b2-wd_b02_itp_g11-stats"><img alt="Lakshika's Top Languages" src="https://github-IT2080-ITP-2022-Feb/itp_project_group_b2-wd_b02_itp_g11-stats.vercel.app/api/top-langs/?username=Lakshikz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>  -->
+<br/>
+    <a href="https://github.com/Lakshikz/github-readme-stats"><img alt="Lakshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lakshikz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Lakshikz/github-readme-stats"><img alt="Lakshika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshikz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
+ 
 <br/>
 
 <a href="https://github.com/Lakshikz/github-readme-activity-graph"><img alt="Lakshika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=La&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
