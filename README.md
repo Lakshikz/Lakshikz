@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Gym Management System App]()**
+- 🔭 I’m currently working on **[Gym Management System App](https://github.com/IT2080-ITP-2022-Feb/itp_project_group_b2-wd_b02_itp_g11)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
